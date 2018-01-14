@@ -1,7 +1,6 @@
 const fs = require('fs');
-const rc = require('rc');
 const path = require('path');
-const ensureDir = require('mkdirp');
+const config = require('@ableton-project-generator/config');
 const pkg = require('./package.json');
 
 /**
