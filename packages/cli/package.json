@@ -1,7 +1,7 @@
 {
     "name": "apg",
     "version": "1.0.0",
-    "description": "The CLI tool to generator Ableton Project folders with templates\"",
+    "description": "The CLI tool to generate Ableton Project folders from templates",
     "main": "index.js",
     "author": "Jan Biasi <biasijan@gmail.com>",
     "license": "Apache-2.0",
