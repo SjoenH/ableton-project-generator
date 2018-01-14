@@ -13,10 +13,7 @@
     "dependencies": {
         "commander": "^2.12.2",
         "del": "^3.0.0",
-        "inquirer": "^4.0.2",
-        "mkdirp": "^0.5.1",
-        "ncp": "^2.0.0",
-        "rc": "^1.2.2"
+        "inquirer": "^4.0.2"
     },
     "devDependencies": {
         "ava": "^0.24.0"
